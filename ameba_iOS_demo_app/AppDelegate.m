@@ -19,6 +19,12 @@
     self.viewController = [[ViewController alloc] initWithNibName:@"ViewController" bundle:nil];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+    
+    CGRect labelFrame = CGRectMake( 10, 40, 400, 30 );
+    UILabel* label = [[UILabel alloc] initWithFrame: labelFrame];
+    [label setText: @"Thank you for using Ameba!"];
+    [label setTextColor: [UIColor orangeColor]];
+    [self.window addSubview: label];
     return YES;
 }
 
