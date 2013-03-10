@@ -19,7 +19,7 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>pl.polidea.ameba.demo.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>pl.polidea.ameba.demo.ameba-iOS-demo-app</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
