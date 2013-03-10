@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9316B0B516EC312C001334E7 /* ameba.png in Resources */ = {isa = PBXBuildFile; fileRef = 9316B0B416EC312C001334E7 /* ameba.png */; };
 		93E9583216EA9DB700960221 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93E9583116EA9DB700960221 /* UIKit.framework */; };
 		93E9583416EA9DB700960221 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93E9583316EA9DB700960221 /* Foundation.framework */; };
 		93E9583616EA9DB700960221 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93E9583516EA9DB700960221 /* CoreGraphics.framework */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9316B0B416EC312C001334E7 /* ameba.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ameba.png; sourceTree = "<group>"; };
 		93E9582E16EA9DB700960221 /* ameba_iOS_demo_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ameba_iOS_demo_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93E9583116EA9DB700960221 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		93E9583316EA9DB700960221 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -87,6 +89,7 @@
 		93E9582516EA9DB700960221 = {
 			isa = PBXGroup;
 			children = (
+				9316B0B416EC312C001334E7 /* ameba.png */,
 				93E9583716EA9DB700960221 /* ameba_iOS_demo_app */,
 				93E9585B16EA9DB800960221 /* ameba_iOS_demo_appTests */,
 				93E9583016EA9DB700960221 /* Frameworks */,
@@ -236,6 +239,7 @@
 				93E9584616EA9DB700960221 /* Default@2x.png in Resources */,
 				93E9584816EA9DB700960221 /* Default-568h@2x.png in Resources */,
 				93E9584E16EA9DB800960221 /* ViewController.xib in Resources */,
+				9316B0B516EC312C001334E7 /* ameba.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,6 +457,7 @@
 				93E9586816EA9DB800960221 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		93E9586916EA9DB800960221 /* Build configuration list for PBXNativeTarget "ameba_iOS_demo_appTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +466,7 @@
 				93E9586B16EA9DB800960221 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
