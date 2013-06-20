@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B030F064-23CC-4C46-8346-3346FB2895FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ameba_iOS_demo_app</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EA379D77-2F07-408F-A863-847A1B8D9C1B</key>
+		<string>https://github.com/maciej-sawicki/ios_demo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ameba_iOS_demo_app.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EA379D77-2F07-408F-A863-847A1B8D9C1B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/maciej-sawicki/ios_demo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EA379D77-2F07-408F-A863-847A1B8D9C1B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EA379D77-2F07-408F-A863-847A1B8D9C1B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios_demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
